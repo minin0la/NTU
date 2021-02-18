@@ -1,0 +1,6 @@
+--2021-01-14 15:02:29--  https://learn-ap-southeast-1-prod-fleet02-xythos.content.blackboardcdn.com/5dcb73f79ba4c/2799633?X-Blackboard-Expiration=1610614800000
+Resolving learn-ap-southeast-1-prod-fleet02-xythos.content.blackboardcdn.com (learn-ap-southeast-1-prod-fleet02-xythos.content.blackboardcdn.com)... 151.101.10.132
+Connecting to learn-ap-southeast-1-prod-fleet02-xythos.content.blackboardcdn.com (learn-ap-southeast-1-prod-fleet02-xythos.content.blackboardcdn.com)|151.101.10.132|:443... connected.
+HTTP request sent, awaiting response... 403 Signature Invalid
+2021-01-14 15:02:29 ERROR 403: Signature Invalid.
+
